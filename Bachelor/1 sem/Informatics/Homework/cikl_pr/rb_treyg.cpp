@@ -13,6 +13,7 @@ int main(){
         for(int j = 1; j <= p; j++){
             cout << " ";
         }
+        
         for (int j = 1; j <= z; j++){
             cout << '*';
         }
